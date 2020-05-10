@@ -30,4 +30,4 @@ library(EpuArgs)
 <br><br><br>
 Acknowledgment
 --------
-Thanks to Holtz Yan for his help on developing EpuRate template.
+Thanks to Holtz Yan for developing EpuRate template.
