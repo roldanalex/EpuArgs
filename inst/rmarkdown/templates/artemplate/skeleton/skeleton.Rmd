@@ -9,7 +9,7 @@ github: "wizard2416"
 # !!! You need to provide a logo image here !!! Or just delete the field for no logo
 logo: "logo_gallery.png"
 output:
-  epuRate::epurate:
+  EpuArgs::artemplate:
     toc: TRUE
     number_sections: FALSE
     code_folding: "hide"
