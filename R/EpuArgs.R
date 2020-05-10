@@ -8,7 +8,7 @@ EpuArgs <- function(toc = TRUE, code_folding = "hide", number_sections=TRUE) {
   template <- system.file("rmarkdown", "templates", "EpuArgs" ,"resources", "template_EpuArgs.html", package = "EpuArgs")
 
   # call the base html_document function
-  rmarkdown::html_document( theme = "pulse",
+  rmarkdown::html_document( theme = "spacelab",
                             template = template,
                             css= css,
                             toc= toc,
