@@ -1,6 +1,6 @@
 library(rmarkdown)
 
-# Features of the Epurate Template
+# Features of the EpuArgs Template
 EpuArgs <- function(toc = TRUE, code_folding = "hide", number_sections=TRUE) {
 
   # get the locations of resource files located within the package
@@ -8,8 +8,8 @@ EpuArgs <- function(toc = TRUE, code_folding = "hide", number_sections=TRUE) {
   template <- system.file("rmarkdown", "templates", "EpuArgs" ,"resources", "template_EpuArgs.html", package = "EpuArgs")
 
   # call the base html_document function
-  rmarkdown::html_document( theme= "darkly",
-                            template= template,
+  rmarkdown::html_document( theme = "Darkly",
+                            template = template,
                             css= css,
                             toc= toc,
                             toc_float = TRUE,
