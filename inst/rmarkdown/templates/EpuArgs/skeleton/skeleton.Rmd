@@ -27,7 +27,7 @@ Always start by loading *libraries*. The [tidyverse](https://www.tidyverse.org) 
 ```{r, message=FALSE, warning=FALSE}
 library(tidyverse)
 library(rmarkdown)    # You need this library to run this template.
-library(epuRate)      # Install with devtools: install_github("holtzy/epuRate", force=TRUE)
+
 ```
 
 Then I explain what is my input data and I load it. Here is how it looks like:
