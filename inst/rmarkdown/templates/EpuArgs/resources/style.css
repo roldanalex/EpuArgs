@@ -37,7 +37,7 @@ a:hover {
 #TOC {
   top: 15%;
   position: fixed;
-  width: 260px;
+  width: 280px;
 }
 .tocify {
   border: none;
