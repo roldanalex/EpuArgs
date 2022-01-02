@@ -1,11 +1,11 @@
 ---
 title: "A clean and uncluttered template"
-author: "[Alexis Roldan](https://github.com/wizard2416)"
+author: "[Alexis Roldan](https://alexisroldan.netlify.app/)"
 date: "`r format(Sys.time(), '%d %B %Y')`"
-mail: "argos2416@gmail.com"
+mail: "alexis.m.roldan.ds@gmail.com"
 linkedin: "alexis-roldan-ds/"
-twitter: "wizard2416"
-github: "wizard2416"
+twitter: "roldan_al"
+github: "roldanalex"
 # !!! You need to provide a logo image here !!! Or just delete the field for no logo
 logo: "logo_gallery.png"
 output:
